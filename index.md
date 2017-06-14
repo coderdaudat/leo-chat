@@ -1,5 +1,5 @@
 
-Extra Download Privacy Policy
+## Extra Download Privacy Policy
 
 This Privacy Policy discloses the privacy practices for the Extra Download application (collectively, the “application” located at Google Play). Extra Download the provider of the Application (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
