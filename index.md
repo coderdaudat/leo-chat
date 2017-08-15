@@ -67,7 +67,7 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 
 Children . We do not knowingly collect personal information from anyone under the age of 18, and no part of the Application is designed to attract anyone under the age of 18. Extra Download does not support download file for children.
 
-Facebook Connect . Extra Download allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends’ News Feeds. If you are logged into LEO CHAT and Facebook, when you click on “Connect with Facebook” your profiles will merge if the email addresses match.
+Facebook Connect . LEO CHAT allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends’ News Feeds. If you are logged into LEO CHAT and Facebook, when you click on “Connect with Facebook” your profiles will merge if the email addresses match.
 
 10. Contacting Us
 
