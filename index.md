@@ -1,7 +1,7 @@
 
-## Extra Download Privacy Policy
+## LEO CHAT
 
-This Privacy Policy discloses the privacy practices for the Extra Download application (collectively, the “application” located at Google Play). Extra Download the provider of the Application (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
+This Privacy Policy discloses the privacy practices for the LEO CHAT application (collectively, the “application” located at Google Play). LEO CHAT the provider of the Application (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
 Please read this privacy policy carefully. By accessing or using our application, you acknowledge that you have read, understand, and agree to be bound to all the terms of this privacy policy and our application terms of use. If you do not agree to these terms, exit this application and do not access or use the application.
 
@@ -41,19 +41,15 @@ https://apps.admob.com
 
 We also use Third Party Service Providers to track and analyse Non-Personally Identifiable usage and volume statistical information from our Users to administer our application and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
 
-5. Files Piracy
-
-Do not use this app to download files piracy (such as: videos, music, picture…). We stop providing services if it detects the deliberate acts of piracy of intellectual property.
-
-6. Updating and Correcting Information
+5. Updating and Correcting Information
 
 We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the “Setting” section of the application, or by contacting us through “Contact”. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Application. In addition, in may be impossible for us to completely delete all of your information because we periodically backup information.
 
-7. User Choices on Collection and Use of Information
+6. User Choices on Collection and Use of Information
 
 As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
 
-As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by submitting a request at getcoupon.xyz/contact, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
+As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by submitting a request at beemob.daoducanh@gmail.com, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
 8. Security of Information
 
@@ -67,11 +63,11 @@ Tracking Devices . We may use other industry standard technologies like Firebase
 
 9. Privacy Policies of Third Party Application
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you on Extra Download Application or http://getcoupon.xyz/extra-download-privacy-policy/. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
+This Privacy Policy only addresses the use and disclosure of information we collect from you on LOE CHAT or https://coderdaudat.github.io/leo-chat/. Other websites that may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review the website’s privacy policy. We are not responsible for the policies or practices of third parties.
 
 Children . We do not knowingly collect personal information from anyone under the age of 18, and no part of the Application is designed to attract anyone under the age of 18. Extra Download does not support download file for children.
 
-Facebook Connect . Extra Download allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends’ News Feeds. If you are logged into Extra Download and Facebook, when you click on “Connect with Facebook” your profiles will merge if the email addresses match.
+Facebook Connect . Extra Download allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends’ News Feeds. If you are logged into LEO CHAT and Facebook, when you click on “Connect with Facebook” your profiles will merge if the email addresses match.
 
 10. Contacting Us
 
@@ -79,8 +75,8 @@ Whether you’re a new or loyal customer we’d like to stay connected and want 
 
 Corporate Address
 
-Extra Download
+LEO CHAT
 Attn: Copyright Agent
-22A1 Building CT4, Van Khe.
+TSQ Building Mo Lao - Ha Dong.
 
 Hanoi City, Vietnam.
